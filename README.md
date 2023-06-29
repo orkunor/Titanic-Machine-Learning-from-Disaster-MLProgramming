@@ -12,4 +12,5 @@ Thank you to the Kaggle family.
 Please follow me on kaggle to follow my work and support me!
 
 kaggle profile : https://www.kaggle.com/orkunorulluolu
+
 kaggle project : https://www.kaggle.com/competitions/titanic
